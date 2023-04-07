@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Lab03","l":"checkIfPlayAgain()"},{"p":"<Unnamed>","c":"Lab03","l":"getUserGuess(String)","u":"getUserGuess(java.lang.String)"},{"p":"<Unnamed>","c":"Lab03","l":"Lab03()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"Lab03","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"Lab03","l":"scanner"}];updateSearchResults();
